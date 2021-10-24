@@ -19,6 +19,11 @@
             "name": "air",
             "id":"103.141.69.253",
             "keys":"MRB:DCAX"
+        },
+        {
+            "name": "binsin",
+            "id":"154.202.2.103",
+            "keys":"MRB:SACZ15ZX"
         }
         
     ]
